@@ -1,0 +1,7 @@
+/log/*
+/bin/*
+config/*
+.settings
+.project
+.buildpath
+.idea
